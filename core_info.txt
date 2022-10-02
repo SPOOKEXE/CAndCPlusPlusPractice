@@ -1,0 +1,25 @@
+
+== Fundamental Types ==
+Types		| Bytes	| Range
+---------------------------------------------
+short		| 2		| -32,768 to 32,767
+int			| 4	 	| -2 billion to 2 billion
+long		| 4		| same as int
+long long	| 8		| extremely large
+---------------------------------------------
+float		| 4		| -3.4e38 to 3.4e38
+double		| 8		| -1.7e308 to 1.7e308
+long double	| 8		| -3.4e932 to 1.7e4832
+bool		| 1		| true / false
+char		| 1		| single characters
+---------------------------------------------
+
+== Number Systems ==
+System 					| Digits 	| Example
+---------------------------------------------
+Decimal (base 10) 		| 0-9 		| 255
+Binary (base 2) 		| 0, 1 		| 111111 (1 + 2 + 4 + 8 + 16 + 32) = 63
+Hexadecimal (base 16) 	| 0-9, A-F	| FF
+---------------------------------------------
+
+

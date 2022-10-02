@@ -1,0 +1,11 @@
+
+C++ Tutorial for Beginners - Learn C++ in 1 Hour
+https://www.youtube.com/watch?v=ZzaPdXTrSb8
+
+Object Oriented Programming (OOP) in C++ Course
+https://www.youtube.com/watch?v=wN0x9eZLix4
+
+
+C++ Library Reference Websites
+- https://cplusplus.com/reference/cmath/
+- https://en.cppreference.com/w/cpp/header/cmath
