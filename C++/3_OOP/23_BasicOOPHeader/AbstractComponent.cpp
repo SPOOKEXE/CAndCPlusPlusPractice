@@ -3,6 +3,7 @@
 #include "AbstractComponent.h"
 
 using namespace std;
+using namespace test
 
 AbstractComponent::AbstractComponent(string serial, string type) {
 	setSerial(serial);

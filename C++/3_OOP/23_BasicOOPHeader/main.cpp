@@ -4,7 +4,7 @@
 #include "AbstractComponent.h"
 #include <iostream>
 
-using namespace AbstractComponent;
+using namespace test;
 using namespace std;
 
 int main() {

@@ -1,10 +1,11 @@
-#ifndef ABSTRACTCOMPONENT_H
-	#define ABSTRACTCOMPONENT_H
+#pragma once
 
-	#include <iostream>
-	#include <string>
+#include <iostream>
+#include <string>
 
-	using namespace std;
+using namespace std;
+
+namespace test {
 
 	class AbstractComponent {
 		protected:
@@ -12,11 +13,11 @@
 			string Type;
 		public:
 			AbstractComponent(string serial, string type);
-			string getSerial() const;
-			string getType() const;
+			string getSerial();
+			string getType();
 			void setSerial(string serial);
 			void setType(string type);
 			void outputComponent();
 	};
 
-#endif // ABSTRACTCOMPONENT_H
+}
