@@ -1,11 +1,8 @@
 # ninja log v5
-3	209	6864964831073944	CMakeFiles/C__.dir/3_OOP/24_AdvancedOOPHeader/main.cpp.obj	546d9d32f535c7bc
-2	207	6864964983473644	CMakeFiles/C__.dir/3_OOP/24_AdvancedOOPHeader/vehicle.cpp.obj	1b18fb9707c21dd
-2	206	6864965410783705	CMakeFiles/C__.dir/3_OOP/24_AdvancedOOPHeader/main.cpp.obj	546d9d32f535c7bc
-1	206	6864966516813805	CMakeFiles/C__.dir/3_OOP/24_AdvancedOOPHeader/vehicle.cpp.obj	1b18fb9707c21dd
-4	215	6864968333196296	CMakeFiles/C__.dir/3_OOP/24_AdvancedOOPHeader/main.cpp.obj	546d9d32f535c7bc
-2	212	6864969834364552	CMakeFiles/C__.dir/3_OOP/24_AdvancedOOPHeader/vehicle.cpp.obj	1b18fb9707c21dd
-212	276	6864969834984546	C__.exe	edf14f3e1b1cf80a
 1	226	6864978763601053	CMakeFiles/C__.dir/3_OOP/24_AdvancedOOPHeader/main.cpp.obj	546d9d32f535c7bc
 2	234	6864978956300166	CMakeFiles/C__.dir/3_OOP/24_AdvancedOOPHeader/vehicle.cpp.obj	1b18fb9707c21dd
 234	301	6864978956950159	C__.exe	edf14f3e1b1cf80a
+2	230	6865005346734937	CMakeFiles/C__.dir/3_OOP/24_AdvancedOOPHeader/main.cpp.obj	546d9d32f535c7bc
+7	231	6865005346744915	CMakeFiles/C__.dir/4_Implementations/26_HashMap/tester.cpp.obj	f01ca595754a1cc9
+5	243	6865005346854918	CMakeFiles/C__.dir/3_OOP/24_AdvancedOOPHeader/vehicle.cpp.obj	1b18fb9707c21dd
+2	218	6865005456954952	CMakeFiles/C__.dir/4_Implementations/26_HashMap/tester.cpp.obj	f01ca595754a1cc9

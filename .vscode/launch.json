@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/GithubProjects/CAndCPlusPlusPractice/C++/3_OOP/24_AdvancedOOPHeader",
-      "program": "d:/GithubProjects/CAndCPlusPlusPractice/C++/3_OOP/24_AdvancedOOPHeader/build/Debug/outDebug",
+      "cwd": "d:/GithubProjects/CAndCPlusPlusPractice/C++/4_Implementations/26_HashMap",
+      "program": "d:/GithubProjects/CAndCPlusPlusPractice/C++/4_Implementations/26_HashMap/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
