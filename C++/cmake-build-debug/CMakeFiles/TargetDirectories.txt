@@ -1,3 +1,0 @@
-D:/GithubProjects/CAndCPlusPlusPractice/C++/cmake-build-debug/CMakeFiles/C__.dir
-D:/GithubProjects/CAndCPlusPlusPractice/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/GithubProjects/CAndCPlusPlusPractice/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

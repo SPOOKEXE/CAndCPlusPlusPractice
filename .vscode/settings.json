@@ -36,7 +36,31 @@
     "xutility": "cpp",
     "ctime": "cpp",
     "string": "cpp",
-    "tuple": "cpp"
+    "tuple": "cpp",
+    "array": "cpp",
+    "atomic": "cpp",
+    "bit": "cpp",
+    "*.tcc": "cpp",
+    "cctype": "cpp",
+    "clocale": "cpp",
+    "compare": "cpp",
+    "concepts": "cpp",
+    "cstdarg": "cpp",
+    "cwctype": "cpp",
+    "deque": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "algorithm": "cpp",
+    "functional": "cpp",
+    "iterator": "cpp",
+    "memory_resource": "cpp",
+    "numeric": "cpp",
+    "random": "cpp",
+    "string_view": "cpp",
+    "numbers": "cpp",
+    "chrono": "cpp",
+    "ratio": "cpp",
+    "sstream": "cpp"
   },
   "C_Cpp.errorSquiggles": "Disabled",
   "C_Cpp_Runner.cCompilerPath": "gcc",
@@ -67,5 +91,9 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
+  ],
+  "cmake.sourceDirectory": "${workspaceFolder}/C++",
+  "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+    "clang-diagnostic-error"
   ]
 }
