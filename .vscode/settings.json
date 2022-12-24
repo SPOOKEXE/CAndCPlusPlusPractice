@@ -1,5 +1,6 @@
 {
   "files.associations": {
+    "*.py": "python",
     "iostream": "cpp",
     "cmath": "cpp",
     "cstddef": "cpp",
@@ -60,7 +61,23 @@
     "numbers": "cpp",
     "chrono": "cpp",
     "ratio": "cpp",
-    "sstream": "cpp"
+    "sstream": "cpp",
+    "charconv": "cpp",
+    "format": "cpp",
+    "forward_list": "cpp",
+    "iomanip": "cpp",
+    "locale": "cpp",
+    "map": "cpp",
+    "mutex": "cpp",
+    "optional": "cpp",
+    "stop_token": "cpp",
+    "thread": "cpp",
+    "xlocbuf": "cpp",
+    "xlocmes": "cpp",
+    "xlocmon": "cpp",
+    "xloctime": "cpp",
+    "xtree": "cpp",
+    "list": "cpp"
   },
   "C_Cpp.errorSquiggles": "Disabled",
   "C_Cpp_Runner.cCompilerPath": "gcc",
